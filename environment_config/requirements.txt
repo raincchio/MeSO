@@ -1,6 +1,5 @@
 # python >= 3.7.3
 # conda install pytorch==1.1.0 torchvision==0.3.0 cudatoolkit=10.0 -c pytorch
-# export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/chenxing/.mujoco/mujoco200/bin
 
 mujoco-py==2.0.2.13
 
